@@ -1,0 +1,20 @@
+Message stats for scenario PROPHET Default
+sim_time: 274883.0000
+created: 198
+started: 172401
+relayed: 167277
+aborted: 5124
+dropped: 166665
+removed: 0
+delivered: 115
+delivery_prob: 0.5808
+response_prob: 0.0000
+overhead_ratio: 1453.5826
+latency_avg: 26212.0261
+latency_med: 18242.0000
+hopcount_avg: 5.0000
+hopcount_med: 4
+buffertime_avg: 930.7207
+buffertime_med: 47.0000
+rtt_avg: NaN
+rtt_med: NaN

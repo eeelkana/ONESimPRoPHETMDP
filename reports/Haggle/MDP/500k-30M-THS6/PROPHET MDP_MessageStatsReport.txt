@@ -1,0 +1,20 @@
+Message stats for scenario PROPHET MDP THS 0.6
+sim_time: 274883.0000
+created: 198
+started: 1103349
+relayed: 143415
+aborted: 4093
+dropped: 141440
+removed: 0
+delivered: 142
+delivery_prob: 0.7172
+response_prob: 0.0000
+overhead_ratio: 1008.9648
+latency_avg: 28907.2817
+latency_med: 22937.0000
+hopcount_avg: 5.1901
+hopcount_med: 4
+buffertime_avg: 2874.6098
+buffertime_med: 287.0000
+rtt_avg: NaN
+rtt_med: NaN
